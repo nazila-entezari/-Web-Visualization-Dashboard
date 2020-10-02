@@ -1,0 +1,39 @@
+.summary > h1 { 
+    margin: 0;
+    padding: .3rem;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+.navbar-brand {
+background-color:cyan;
+  color: white;
+padding: 5px;
+}
+
+h3{
+	color:cyan;
+}
+
+table{
+	margin:50px;
+
+}
+
+.table{overflow-x:auto;
+ width: 100%
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+th{
+	background-color:#f2f2f2 
+}
