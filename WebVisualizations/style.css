@@ -5,10 +5,19 @@
     font: 1rem 'Fira Sans', sans-serif;
 }
 
-.navbar-brand {
-background-color:cyan;
-  color: white;
-padding: 5px;
+
+.exp{
+	margin:50px;
+}
+
+.navbar{
+	background-color: cyan;
+
+}
+
+.navbar-brand{
+	padding-left: 20px;
+	font-size:25px;
 }
 
 h3{
@@ -36,4 +45,8 @@ tr:nth-child(even) {
 
 th{
 	background-color:#f2f2f2 
+}
+
+.centered{
+	text-align: center
 }
